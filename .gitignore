@@ -1,0 +1,13 @@
+venv/
+predictvenv/
+__pycache__/
+*.pyc
+
+.streamlit/
+
+worldcup_bets.db
+
+.env
+
+.idea/
+.vscode/
